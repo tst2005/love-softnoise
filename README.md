@@ -11,7 +11,7 @@ Download
 ========
 
 * <strike>Download [love-softnoise-0.1.zip](https://codeload.github.com/tst2005/love-softnoise/zip/v0.1) and rename it to softnoise.love</strike> ... hmm ... no, forget. Love are still not able to find the main.lua inside only one directory ...
-* Download [softnoise.love(https://www.worldmaster.fr/static/softnoise.love)
+* Download [softnoise.love](https://www.worldmaster.fr/static/softnoise.love)
 
 
 
