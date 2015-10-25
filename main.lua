@@ -1,8 +1,8 @@
 
 local soundfiles = {
-	{"birds.ogg", 0.5},
-	{"storm.ogg", 1.0},
-	{"sea.ogg", 0.25},
+	{"data/birds.ogg", 0.5},
+	{"data/storm.ogg", 1.0},
+	{"data/sea.ogg", 0.25},
 }
 
 require"love"
