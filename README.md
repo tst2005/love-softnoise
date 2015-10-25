@@ -31,4 +31,11 @@ License
 
 My code is under MIT License.
 The data (sound files) follow their own free License ...
+
 See http://asoftmurmur.com/about/
+
+* [birds.ogg](http://www.freesound.org/people/inchadney/sounds/56611/) is licensed under [the Attribution License](http://creativecommons.org/licenses/by/3.0/)
+* [sea.ogg](http://www.freesound.org/people/Soarer/sounds/13793/) is licensed under [the Attribution License](http://creativecommons.org/licenses/by/3.0/)
+* [storm.ogg](http://www.freesound.org/people/OroborosNZ/sounds/141251/) is licensed under [the Creative Commons 0 License](http://creativecommons.org/publicdomain/zero/1.0/)
+* wind.ogg
+
