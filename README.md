@@ -10,8 +10,8 @@ It should be also compatible with windows, macosx, ...
 Download
 ========
 
-* Download [softnoise.zip](https://github.com/tst2005/love-softnoise/archive/softnoise.zip)
-* rename it to  [softnoise.love](https://github.com/tst2005/love-softnoise/archive/softnoise.zip)
+* Download [love-softnoise-0.1.zip](https://codeload.github.com/tst2005/love-softnoise/zip/v0.1)
+* rename it to [softnoise.love](https://codeload.github.com/tst2005/love-softnoise/zip/v0.1)
 
 
 Require Love for Android
