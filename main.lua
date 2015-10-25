@@ -1,4 +1,10 @@
 
+local soundfiles = {
+	{"birds.ogg", 0.5},
+	{"storm.ogg", 1.0},
+	{"sea.ogg", 0.25},
+}
+
 require"love"
 require"love.audio"
 require"love.sound"
@@ -60,12 +66,6 @@ end
 
 
 -- common code --
-
-local soundfiles = {
-	{"birds.ogg", 0.5},
-	{"storm.ogg", 1.0},
-	{"sea.ogg", 0.25},
-}
 
 local sounds = {}
 function love.load()
